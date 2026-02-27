@@ -140,7 +140,7 @@ python -m venv .venv
 
 .venv\Scripts\activate   # Windows
 
-# OR
+ OR
 source .venv/bin/activate # Mac/Linux
 
 3. Install dependencies:
