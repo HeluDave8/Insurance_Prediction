@@ -130,32 +130,32 @@ results/
 ## 🔧 How to Run
 
 1. Clone the repository:
+   
+    * git clone <your-repo-url>
 
-git clone <your-repo-url>
-
-cd insurance-prediction
+    * cd insurance-prediction
 
 2. Create and activate virtual environment:
 
-python -m venv .venv
+    * python -m venv .venv
 
-.venv\Scripts\activate   # Windows
+    * .venv\Scripts\activate   # Windows
 
  OR
  
-source .venv/bin/activate # Mac/Linux
+    * source .venv/bin/activate # Mac/Linux
 
 3. Install dependencies:
 
-pip install -r 
+    * pip install -r 
 
-requirements.txt
+    * requirements.txt
 
 4. Run the main script:
 
-python main.py
+     * python main.py
 
-All plots, metrics, and best model will be saved automatically in /results.
+(All plots, metrics, and best model will be saved automatically in /results.)
 
 💡 Key Skills Demonstrated
 
