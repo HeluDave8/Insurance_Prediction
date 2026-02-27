@@ -101,6 +101,7 @@ Observation: Random Forest predicts "Purchased" and "Not Purchased" more accurat
 All results are saved in the `/results` folder:
 
 results/
+
 ├── age_vs_travelinsurance.png
 
 ├── income_vs_travelinsurance.png
@@ -141,6 +142,7 @@ python -m venv .venv
 .venv\Scripts\activate   # Windows
 
  OR
+ 
 source .venv/bin/activate # Mac/Linux
 
 3. Install dependencies:
