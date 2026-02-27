@@ -14,5 +14,5 @@ __pycache__/
 Thumbs.db
 
 # Optional folders
-data/
-results/
+#data/
+#results/

@@ -1,0 +1,43 @@
+Dataset shape: (1987, 10)
+
+Columns:
+['Unnamed: 0', 'Age', 'Employment Type', 'GraduateOrNot', 'AnnualIncome', 'FamilyMembers', 'ChronicDiseases', 'FrequentFlyer', 'EverTravelledAbroad', 'TravelInsurance']
+
+Missing values:
+Unnamed: 0             0
+Age                    0
+Employment Type        0
+GraduateOrNot          0
+AnnualIncome           0
+FamilyMembers          0
+ChronicDiseases        0
+FrequentFlyer          0
+EverTravelledAbroad    0
+TravelInsurance        0
+dtype: int64
+
+Data types:
+Unnamed: 0             int64
+Age                    int64
+Employment Type          str
+GraduateOrNot            str
+AnnualIncome           int64
+FamilyMembers          int64
+ChronicDiseases        int64
+FrequentFlyer            str
+EverTravelledAbroad      str
+TravelInsurance        int64
+dtype: object
+
+Summary statistics:
+        Unnamed: 0  ...  TravelInsurance
+count  1987.000000  ...      1987.000000
+mean    993.000000  ...         0.357323
+std     573.741812  ...         0.479332
+min       0.000000  ...         0.000000
+25%     496.500000  ...         0.000000
+50%     993.000000  ...         0.000000
+75%    1489.500000  ...         1.000000
+max    1986.000000  ...         1.000000
+
+[8 rows x 6 columns]
