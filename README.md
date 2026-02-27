@@ -1,9 +1,5 @@
 # Travel Insurance Prediction Using Machine Learning
 
-![Project Banner](results/correlation_heatmap.png)  
-
----
-
 ## 📌 Project Overview
 
 Insurance companies want to target potential customers who are most likely to purchase insurance policies. This project demonstrates how **machine learning** can predict whether an individual will purchase travel insurance based on personal and behavioral features.
