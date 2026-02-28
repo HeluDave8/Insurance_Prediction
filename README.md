@@ -157,7 +157,7 @@ results/
 
 (All plots, metrics, and best model will be saved automatically in /results.)
 
-💡 Key Skills Demonstrated
+💡 Key process done
 
 * Data Cleaning & Preprocessing
 
@@ -171,4 +171,4 @@ results/
 
 * Saving results & models for deployment
 
-* Portfolio-ready project structure
+  
